@@ -1,7 +1,7 @@
 # Purpose
 Decode macOS .savedState folders, located in `~/Library/Saved Application State`
 # Usage
-`python macOS_savedstate.py lo.cafe.lo-rain.savedState out` (folder `out/` must exist in current dir, this program will not make it.)
+`python macOS_savedstate.py lo.cafe.lo-rain.savedState out` (folder `out/` must exist, this program will not make it.)
 
 # Setup
 Tested with macOS 14.1.1, dependencies frozen in conda.
