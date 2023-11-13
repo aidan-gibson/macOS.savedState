@@ -18,3 +18,10 @@ https://gist.github.com/williballenthin/994db929b1448fdf73baf91207129dec `macOS_
 
 https://gist.github.com/williballenthin/ab23abd5eec5bf5a272bfcfb2342ec04 bplist.py (renamed to `zbplist.py`)
 
+# Further Discussion of .savedState
+
+https://apple.stackexchange.com/questions/375746/how-to-read-and-manipulate-library-saved-application-state-com-apple-finder-sa
+
+https://www.crowdstrike.com/blog/reconstructing-command-line-activity-on-macos/
+
+If someone wants to make a metasploit module for this it looks like it's still a current issue https://github.com/rapid7/metasploit-framework/issues/12440
